@@ -3,57 +3,11 @@
 [![Visits Badge](https://badges.pufler.dev/visits/eldimious/eldimious)]()
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/el_dimious)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/dimosthenis-botsaris-5ab16485/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-Email-informational?style=flat&logo=gmail&logoColor=white&color=1CA2F1)](https://www.linkedin.com/in/dimosthenis-botsaris-5ab16485/)
 
 Hey there 👋
 
 I’m Dimos, a senior full-stack engineer, who specializes in back-end development, software architecture and microservices. I am a conscientious person who works hard and always try learn something new. I love JS, Go, Kotlin, IoT, and blockchain.
-
-
-## 📝 Latest Posts
-
-<br>
-
-<!-- BLOG-POST-LIST:START -->
-- [Introduction to AWS using Terraform](https://www.youtube.com/watch?v=y4Z0IwoCLQc&ab_channel=arconsisIT-SolutionsGmbH)
-<!-- BLOG-POST-LIST:END -->
-
-<br>
-
-## 📌 Pinned Repositories
-
-<br>
-
-<a href="https://github.com/eldimious/network-avatar-picker">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=eldimious&repo=network-avatar-picker&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-<a href="https://github.com/eldimious/nodejs-api-showcase">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=eldimious&repo=nodejs-api-showcase&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br>
-<br>
-
-<a href="https://github.com/eldimious/throw-http-errors">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=eldimious&repo=throw-http-errors&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<a href="https://github.com/eldimious/couchbase-server-promises">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=eldimious&repo=couchbase-server-promises&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br>
-<br>
-
-<a href="https://github.com/eldimious/js-notes">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=eldimious&repo=js-notes&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<a href="https://github.com/eldimious/golang-api-showcase">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=eldimious&repo=golang-api-showcase&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br>
-<br>
 
 ## &#x1f4c8; GitHub Stats
 
@@ -71,8 +25,6 @@ I’m Dimos, a senior full-stack engineer, who specializes in back-end developme
 <br>
 
 ## 💼 Skills
-
-
 
 ![](https://img.shields.io/badge/Code-NodeJS-informational?style=flat&logo=node.js&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=4AB197)
@@ -121,5 +73,51 @@ I’m Dimos, a senior full-stack engineer, who specializes in back-end developme
 ![](https://img.shields.io/badge/Tools-Jira-informational?style=flat&logo=Jira-Software&logoColor=white&color=4AB197)
 
 </details>
+
+<br>
+
+## 📌 Pinned Repositories
+
+<br>
+
+<a href="https://github.com/eldimious/network-avatar-picker">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=eldimious&repo=network-avatar-picker&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+<a href="https://github.com/eldimious/nodejs-api-showcase">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=eldimious&repo=nodejs-api-showcase&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<br>
+<br>
+
+<a href="https://github.com/eldimious/throw-http-errors">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=eldimious&repo=throw-http-errors&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<a href="https://github.com/eldimious/couchbase-server-promises">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=eldimious&repo=couchbase-server-promises&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<br>
+<br>
+
+<a href="https://github.com/eldimious/js-notes">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=eldimious&repo=js-notes&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<a href="https://github.com/eldimious/golang-api-showcase">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=eldimious&repo=golang-api-showcase&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<br>
+<br>
+
+## 📝 Latest Posts
+
+<br>
+
+<!-- BLOG-POST-LIST:START -->
+- [Introduction to AWS using Terraform](https://www.youtube.com/watch?v=y4Z0IwoCLQc&ab_channel=arconsisIT-SolutionsGmbH)
+<!-- BLOG-POST-LIST:END -->
 
 <br>

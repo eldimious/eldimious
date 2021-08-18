@@ -18,7 +18,7 @@ I’m Dimos, a senior full-stack engineer, who specializes in back-end developme
 </a>
 
 <a href="https://github.com/eldimious">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=eldimious&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34&hide=contribs" alt="Martin's GitHub Stats" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=eldimious&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34&hide=prs,contribs" alt="Martin's GitHub Stats" />
 </a>
 
 <br>
@@ -45,7 +45,7 @@ I’m Dimos, a senior full-stack engineer, who specializes in back-end developme
 ![](https://img.shields.io/badge/Code-GCloud-informational?style=flat&logo=google&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Heroky-informational?style=flat&logo=heroku&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Terraform-informational?style=flat&logo=Terraform&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Kafka-informational?style=flat&logo=Kafka&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Kafka-informational?style=flat&logo=apache-kafka&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-RabbitMQ-informational?style=flat&logo=RabbitMQ&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Socket.IO-informational?style=flat&logo=Socket.IO&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Docker-informational?style=flat&logo=docker&logoColor=white&color=4AB197)

@@ -9,7 +9,7 @@ Hey there 👋
 
 I’m Dimos, a senior full-stack engineer, who specializes in back-end development, software architecture and microservices. I am a conscientious person who works hard and always try learn something new. I love JS, Go, Kotlin, IoT, and blockchain.
 
-## &#x1f4c8; GitHub Stats
+## 🔥 GitHub Stats
 
 <br>
 
@@ -24,12 +24,13 @@ I’m Dimos, a senior full-stack engineer, who specializes in back-end developme
 <br>
 <br>
 
-## 💼 Skills
+## 🛠️ Skills
 
 ![](https://img.shields.io/badge/Code-NodeJS-informational?style=flat&logo=node.js&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typeScript&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Express.js-informational?style=flat&logo=express.js&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-Apollo-GraphQL-informational?style=flat&logo=GraphQL&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=4AB197)
@@ -39,12 +40,15 @@ I’m Dimos, a senior full-stack engineer, who specializes in back-end developme
 ![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Postgres-informational?style=flat&logo=PostgreSQL&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-Redis-informational?style=flat&logo=Redis&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-AWS-informational?style=flat&logo=amazon&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-GCloud-informational?style=flat&logo=google&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Heroky-informational?style=flat&logo=heroku&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Terraform-informational?style=flat&logo=Terraform&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Kafka-informational?style=flat&logo=Kafka&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-RabbitMQ-informational?style=flat&logo=RabbitMQ&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Socket.IO-informational?style=flat&logo=Socket.IO&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Docker-informational?style=flat&logo=docker&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Jquery-informational?style=flat&logo=Jquery&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=4AB197)
 
@@ -60,11 +64,14 @@ I’m Dimos, a senior full-stack engineer, who specializes in back-end developme
 ![](https://img.shields.io/badge/Test-Jasmine-informational?style=flat&logo=Jasmine&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Test-Jest-informational?style=flat&logo=jest&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Test-Mocha-informational?style=flat&logo=Mocha&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Test-Chai-informational?style=flat&logo=Chai&logoColor=white&color=4AB197)
 
 <br>
 
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-CircleCI-informational?style=flat&logo=CircleCI&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-NewRelic-informational?style=flat&logo=NewRelic&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
@@ -73,6 +80,18 @@ I’m Dimos, a senior full-stack engineer, who specializes in back-end developme
 ![](https://img.shields.io/badge/Tools-Jira-informational?style=flat&logo=Jira-Software&logoColor=white&color=4AB197)
 
 </details>
+
+<br>
+
+## 💼 Working Experience
+
+- Lead Backend Engineer, Software Architect [@Limbic AI](https://limbic.ai/), March 2019 - Present
+
+- Lead Software Engineer [@Socius](https://www.socius.co/), March 2016 - March 2019
+
+- Full Stack Engineer, Co-Founder [@23'](http://23m.in/), September 2014 - April 2017
+
+- Full Stack Engineer [@CERTH-ITI](https://www.iti.gr/iti/index.html), December 2013 - September 2014
 
 <br>
 
@@ -112,7 +131,7 @@ I’m Dimos, a senior full-stack engineer, who specializes in back-end developme
 <br>
 <br>
 
-## 📝 Latest Posts
+## 📕 Latest Posts
 
 <br>
 

@@ -1,4 +1,4 @@
-[![Dimos's GitHub Banner](./public/assets/ProfileHeader.png)]
+[![Dimos's GitHub Banner](./public/assets/ProfileHeader.png)]()
 
 [![Visits Badge](https://badges.pufler.dev/visits/eldimious/eldimious)]
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/el_dimious)
@@ -7,6 +7,17 @@
 Hey there 👋
 
 I’m Dimos, a senior full-stack engineer, who specializes in back-end development, software architecture and microservices. I am a conscientious person who works hard and always try learn something new. I love JS, Go, Kotlin, IoT, and blockchain.
+
+
+## 📝 Latest Posts
+
+<br>
+
+<!-- BLOG-POST-LIST:START -->
+- [Introduction to AWS using Terraform](https://www.youtube.com/watch?v=y4Z0IwoCLQc&ab_channel=arconsisIT-SolutionsGmbH)
+<!-- BLOG-POST-LIST:END -->
+
+<br>
 
 ## 📌 Pinned Repositories
 
@@ -77,6 +88,7 @@ I’m Dimos, a senior full-stack engineer, who specializes in back-end developme
 ![](https://img.shields.io/badge/Code-AWS-informational?style=flat&logo=amazon&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-GCloud-informational?style=flat&logo=google&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Heroky-informational?style=flat&logo=heroku&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Terraform-informational?style=flat&logo=Terraform&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Kafka-informational?style=flat&logo=Kafka&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Jquery-informational?style=flat&logo=Jquery&logoColor=white&color=4AB197)
@@ -97,7 +109,7 @@ I’m Dimos, a senior full-stack engineer, who specializes in back-end developme
 
 <br>
 
-![](https://img.shields.io/badge/Tools-NGINX-informational?style=flat&logo=nginx&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=4AB197)

@@ -41,7 +41,6 @@ I’m Dimos, a senior full-stack engineer, who specializes in back-end developme
 ![](https://img.shields.io/badge/Code-Postgres-informational?style=flat&logo=PostgreSQL&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Couchbase-informational?style=flat&logo=couchbase&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Redis-informational?style=flat&logo=Redis&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Terraform-informational?style=flat&logo=Terraform&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Kafka-informational?style=flat&logo=apache-kafka&logoColor=white&color=4AB197)

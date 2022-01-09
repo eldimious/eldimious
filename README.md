@@ -1,13 +1,14 @@
 [![Dimos's GitHub Banner](./public/assets/ProfileHeader.png)]()
 
 [![Visits Badge](https://badges.pufler.dev/visits/eldimious/eldimious)]()
+[![Resume Badge](https://img.shields.io/badge/Resume-Link-informational?style=flat&logo=resume&logoColor=white&color=1CA2F1)](https://www.cakeresume.com/dimosthenis-botsaris)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/el_dimious)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/dimosthenis-botsaris-5ab16485/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=1CA2F1)](https://www.linkedin.com/in/dimosthenis-botsaris-5ab16485/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-Email-informational?style=flat&logo=gmail&logoColor=white&color=1CA2F1)](mailto:botsaris.d@gmail.com)
 
 Hey there 👋
 
-I’m Dimos, a senior full-stack engineer, who specializes in back-end development, software architecture and microservices. I am a conscientious person who works hard and always tries to learn something new. I love JS, Go, Kotlin, IoT, and blockchain.
+I’m Dimos, a senior full-stack engineer, who specializes in back-end development, software architecture and microservices. I am a person who works hard and always tries to learn something new. I love JS, Go, Kotlin, IoT, and blockchain.
 
 ## 🔥 GitHub Stats
 
@@ -98,7 +99,9 @@ I’m Dimos, a senior full-stack engineer, who specializes in back-end developme
 
 - Lead Backend Engineer, Software Architect [@Limbic AI](https://limbic.ai/), January 2019 - December 2020
 
-- Lead Software Engineer [@Socius](https://www.socius.co/), January 2016 - January 2019
+- Lead Software Engineer [@Socius](https://www.socius.co/), February 2016 - December 2019
+
+- Freelancer Full Stack Engineer [@Wetaxi](https://wetaxi.it/en/), January 2015 - January 2016
 
 - Full Stack Engineer, Co-Founder [@23'](http://23m.in/), September 2014 - April 2017
 

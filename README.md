@@ -95,11 +95,11 @@ I’m Dimos, a senior full-stack engineer, who specializes in back-end developme
 
 ## 💼 Working Experience
 
-- Senior Software Engineer, [@Arconsis](https://www.arconsis.com/), January 2021 - present
+- Senior Backend Engineer, [@Arconsis](https://www.arconsis.com/), January 2021 - present
 
 - Lead Backend Engineer, Software Architect [@Limbic AI](https://limbic.ai/), January 2019 - December 2020
 
-- Lead Software Engineer [@Socius](https://www.socius.co/), February 2016 - December 2019
+- Lead Software Engineer [@Socius](https://www.socius.co/), February 2016 - December 2018
 
 - Freelancer Full Stack Engineer [@Wetaxi](https://wetaxi.it/en/), January 2015 - January 2016
 

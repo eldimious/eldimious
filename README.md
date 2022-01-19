@@ -15,11 +15,11 @@ I’m Dimos, a senior full-stack engineer, who specializes in back-end developme
 <br>
 
 <a href="https://github.com/eldimious">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eldimious&hide=html,css&title_color=ffffff&text_color=ccd6f6&icon_color=64ffda&bg_color=112240" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eldimious&hide=html,css&title_color=ffffff&text_color=ccd6f6&icon_color=64ffda&bg_color=0a192f" />
 </a>
 
 <a href="https://github.com/eldimious">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=eldimious&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=ccd6f6&icon_color=64ffda&bg_color=112240&hide=prs,contribs" alt="Martin's GitHub Stats" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=eldimious&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=ccd6f6&icon_color=64ffda&bg_color=0a192f&hide=prs,contribs" alt="Martin's GitHub Stats" />
 </a>
 
 <br>
@@ -114,39 +114,39 @@ I’m Dimos, a senior full-stack engineer, who specializes in back-end developme
 <br>
 
 <a href="https://github.com/eldimious/network-avatar-picker">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=eldimious&repo=network-avatar-picker&title_color=ffffff&text_color=ccd6f6&icon_color=64ffda&bg_color=112240" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=eldimious&repo=network-avatar-picker&title_color=ffffff&text_color=ccd6f6&icon_color=64ffda&bg_color=0a192f" />
 </a>
 <a href="https://github.com/eldimious/nodejs-api-showcase">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=eldimious&repo=nodejs-api-showcase&title_color=ffffff&text_color=ccd6f6&icon_color=64ffda&bg_color=112240" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=eldimious&repo=nodejs-api-showcase&title_color=ffffff&text_color=ccd6f6&icon_color=64ffda&bg_color=0a192f" />
 </a>
 
 <br>
 <br>
 
 <a href="https://github.com/eldimious/throw-http-errors">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=eldimious&repo=throw-http-errors&title_color=ffffff&text_color=ccd6f6&icon_color=64ffda&bg_color=112240" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=eldimious&repo=throw-http-errors&title_color=ffffff&text_color=ccd6f6&icon_color=64ffda&bg_color=0a192f" />
 </a>
 
 <a href="https://github.com/eldimious/js-notes">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=eldimious&repo=js-notes&title_color=ffffff&text_color=ccd6f6&icon_color=64ffda&bg_color=112240" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=eldimious&repo=js-notes&title_color=ffffff&text_color=ccd6f6&icon_color=64ffda&bg_color=0a192f" />
 </a>
 
 <br>
 <br>
 
 <a href="https://github.com/eldimious/couchbase-server-promises">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=eldimious&repo=couchbase-server-promises&title_color=ffffff&text_color=ccd6f6&icon_color=64ffda&bg_color=112240" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=eldimious&repo=couchbase-server-promises&title_color=ffffff&text_color=ccd6f6&icon_color=64ffda&bg_color=0a192f" />
 </a>
 
 <a href="https://github.com/eldimious/golang-api-showcase">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=eldimious&repo=golang-api-showcase&title_color=ffffff&text_color=ccd6f6&icon_color=64ffda&bg_color=112240" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=eldimious&repo=golang-api-showcase&title_color=ffffff&text_color=ccd6f6&icon_color=64ffda&bg_color=0a192f" />
 </a>
 
 <br>
 <br>
 
 <a href="https://github.com/arconsis/aws-network-microservices-warmup">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=arconsis&repo=aws-network-microservices-warmup&title_color=ffffff&text_color=ccd6f6&icon_color=64ffda&bg_color=112240" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=arconsis&repo=aws-network-microservices-warmup&title_color=ffffff&text_color=ccd6f6&icon_color=64ffda&bg_color=0a192f" />
 </a>
 
 <br>

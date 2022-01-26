@@ -3,7 +3,7 @@
 [![Visits Badge](https://badges.pufler.dev/visits/eldimious/eldimious)]()
 [![Website Badge](https://img.shields.io/badge/Website-Link-informational?style=flat&logoColor=white&color=1CA2F1&logo=vercel)](https://www.eldimious.com)
 [![Resume Badge](https://img.shields.io/badge/Resume-Link-informational?style=flat&logo=resume&logoColor=white&color=1CA2F1)](https://www.cakeresume.com/dimosthenis-botsaris)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-el_dimious-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/el_dimious)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/el_dimious)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=1CA2F1)](https://www.linkedin.com/in/dimosthenis-botsaris-5ab16485/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-Email-informational?style=flat&logo=gmail&logoColor=white&color=1CA2F1)](mailto:botsaris.d@gmail.com)
 

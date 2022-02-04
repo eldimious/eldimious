@@ -157,12 +157,16 @@ I’m Dimos, a senior software engineer and software architect, who specializes 
 <br>
 <br>
 
-## 📕 Latest Posts
+## 📕 Latest Blog Posts
 
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to AWS using Terraform](https://www.youtube.com/watch?v=y4Z0IwoCLQc&ab_channel=arconsisIT-SolutionsGmbH)
+- [Introduction to AWS using Terraform](https://www.slideshare.net/DimosthenisBotsaris/aws-introduction-251059152)
+<!-- BLOG-POST-LIST:END -->
+
+<!-- BLOG-POST-LIST:START -->
+- [Introduction to AWS Serverless](https://www.slideshare.net/DimosthenisBotsaris/aws-serverless-introduction)
 <!-- BLOG-POST-LIST:END -->
 
 <br>

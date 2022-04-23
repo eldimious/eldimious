@@ -169,4 +169,12 @@ I’m Dimos, a senior software engineer and software architect, who specializes 
 - [Introduction to AWS Serverless](https://www.slideshare.net/DimosthenisBotsaris/aws-serverless-introduction)
 <!-- BLOG-POST-LIST:END -->
 
+<!-- BLOG-POST-LIST:START -->
+- [AWS Serverless Examples](https://www.slideshare.net/DimosthenisBotsaris/aws-serverless-examples)
+<!-- BLOG-POST-LIST:END -->
+
+<!-- BLOG-POST-LIST:START -->
+- [Introduction to Microservices Patterns ](https://www.slideshare.net/DimosthenisBotsaris/introduction-to-microservices-patterns)
+<!-- BLOG-POST-LIST:END -->
+
 <br>

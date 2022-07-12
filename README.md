@@ -1,6 +1,6 @@
 [![Dimos's GitHub Banner](./public/assets/ProfileHeader.png)]()
 
-[![Visits Badge](https://badges.pufler.dev/visits/eldimious/eldimious)]()
+[![Visits Badge](https://gpvc.arturio.dev/eldimious)]()
 [![Website Badge](https://img.shields.io/badge/Website-Link-informational?style=flat&logoColor=white&color=1CA2F1&logo=vercel)](https://www.eldimious.com)
 [![Resume Badge](https://img.shields.io/badge/Resume-Link-informational?style=flat&logo=resume&logoColor=white&color=1CA2F1)](https://www.cakeresume.com/dimosthenis-botsaris)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/el_dimious)

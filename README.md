@@ -177,4 +177,8 @@ I’m Dimos, a senior software engineer and software architect, who specializes 
 - [Introduction to Microservices Patterns ](https://www.slideshare.net/DimosthenisBotsaris/introduction-to-microservices-patterns)
 <!-- BLOG-POST-LIST:END -->
 
+<!-- BLOG-POST-LIST:START -->
+- [Introduction to Kafka and Event Driven ](https://www.slideshare.net/DimosthenisBotsaris/introduction-to-kafka-and-eventdrivenpptx)
+<!-- BLOG-POST-LIST:END -->
+
 <br>

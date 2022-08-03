@@ -9,7 +9,7 @@
 
 Hey there 👋
 
-I’m Dimos, a senior software engineer and software architect, who specializes in back-end development, software architecture, cloud infrastructure and microservices. I am a person who works hard and always tries to learn something new. I love JS, Go, Kotlin, IoT, and blockchain.
+I’m Dimos, a lead software engineer and software architect, who specializes in back-end development, software architecture, cloud infrastructure and microservices. I am a person who works hard and always tries to learn something new. I love JS, Go, Kotlin, IoT, and blockchain.
 
 ## 🔥 GitHub Stats
 

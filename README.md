@@ -98,11 +98,11 @@ I’m Dimos, a lead software engineer and software architect, who specializes in
 
 - Lead Backend Engineer, Software Architect [@Arconsis](https://www.arconsis.com/), January 2021 - present
 
-- Lead Backend Engineer, Software Architect [@Limbic AI](https://limbic.ai/), January 2019 - December 2020
+- Lead Backend Engineer, Software Architect [@Limbic AI](https://limbic.ai/), January 2019 - January 2021
 
-- Lead Software Engineer [@Socius](https://www.socius.co/), February 2016 - December 2018
+- Lead Software Engineer [@Socius](https://www.socius.co/), February 2016 - January 2019
 
-- Freelancer Full Stack Engineer [@Wetaxi](https://wetaxi.it/en/), January 2015 - January 2016
+- Freelancer Full Stack Engineer [@Wetaxi](https://wetaxi.it/en/), January 2015 - February 2016
 
 - Full Stack Engineer, Co-Founder [@23'](http://23m.in/), September 2014 - April 2017
 

@@ -96,7 +96,9 @@ I’m Dimos, a lead software engineer and software architect, who specializes in
 
 ## 💼 Working Experience
 
-- Lead Backend Engineer, Software Architect [@Arconsis](https://www.arconsis.com/), January 2021 - present
+- Lead Backend Engineer, Software Architect [@Portals.fi](https://portals.fi), November 2021 - current 
+
+- Lead Backend Engineer, Software Architect [@Arconsis](https://www.arconsis.com/), January 2021 - November 2022
 
 - Lead Backend Engineer, Software Architect [@Limbic AI](https://limbic.ai/), January 2019 - January 2021
 

@@ -9,7 +9,7 @@
 
 Hey there 👋
 
-I’m Dimos, a lead software engineer and software architect, who specializes in back-end development, software architecture, cloud infrastructure and microservices. I am a person who works hard and always tries to learn something new. I love JS, Go, Kotlin, IoT, and blockchain.
+I’m Dimos, a lead software engineer and software architect, who specializes in back-end development, software architecture, cloud infrastructure, microservices and event driven. I am a person who works hard and always tries to learn something new. I love working with JS, TS, Rust, Kotlin and blockchain.
 
 ## 🔥 GitHub Stats
 
@@ -34,6 +34,7 @@ I’m Dimos, a lead software engineer and software architect, who specializes in
 ![](https://img.shields.io/badge/Code-Express.js-informational?style=flat&logo=express.js&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-NestJS-informational?style=flat&logo=Nestjs&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Apollo-GraphQL-informational?style=flat&logo=GraphQL&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Quarkus-informational?style=flat&logo=quarkus&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&logoColor=white&color=4AB197)
@@ -41,17 +42,16 @@ I’m Dimos, a lead software engineer and software architect, who specializes in
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Swift-informational?style=flat&logo=Swift&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Postgres-informational?style=flat&logo=PostgreSQL&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Terraform-informational?style=flat&logo=Terraform&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Kafka-informational?style=flat&logo=apache-kafka&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Couchbase-informational?style=flat&logo=couchbase&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Hibernate-informational?style=flat&logo=Hibernate&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Sequelize-informational?style=flat&logo=Sequelize&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Prisma-informational?style=flat&logo=Prisma&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Redis-informational?style=flat&logo=Redis&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Memcached-informational?style=flat&logo=Memcached&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Terraform-informational?style=flat&logo=Terraform&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Kafka-informational?style=flat&logo=apache-kafka&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Docker-informational?style=flat&logo=docker&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-RabbitMQ-informational?style=flat&logo=RabbitMQ&logoColor=white&color=4AB197)
@@ -59,13 +59,13 @@ I’m Dimos, a lead software engineer and software architect, who specializes in
 ![](https://img.shields.io/badge/Code-AWS-informational?style=flat&logo=amazon&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-GCloud-informational?style=flat&logo=google&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Jquery-informational?style=flat&logo=Jquery&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=4AB197)
 
 <details>
 <summary>More Skills</summary>
 <br>
 
+![](https://img.shields.io/badge/Code-Jquery-informational?style=flat&logo=Jquery&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Style-Material--UI-informational?style=flat&logo=materialui&logoColor=white&color=4AB197)
 
@@ -96,7 +96,7 @@ I’m Dimos, a lead software engineer and software architect, who specializes in
 
 ## 💼 Working Experience
 
-- Lead Backend Engineer, Software Architect [@Portals.fi](https://portals.fi), November 2021 - current 
+- Lead Backend Engineer, Software Architect [@Portals.fi](https://portals.fi), November 2022 - current 
 
 - Lead Backend Engineer, Software Architect [@Arconsis](https://www.arconsis.com/), January 2021 - November 2022
 
